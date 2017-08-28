@@ -8,4 +8,4 @@ apm install file-icons
 apm install imdone-atom
 #apm install minimap
 apm install pretty-json
-# apm install svn
+#apm install svn

@@ -32,7 +32,7 @@ brew cask install doomsday-engine
 brew cask install dropbox
 brew cask install dosbox-svn
 brew cask install firefox
-# brew cask install firefoxdeveloperedition
+#brew cask install firefoxdeveloperedition
 #brew cask install flux
 #brew cask install franz
 brew cask install gitkraken
@@ -48,7 +48,7 @@ brew cask install hosts
 brew cask install iina
 brew cask install imagealpha
 brew cask install imageoptim
-# brew cask install java
+#brew cask install java
 brew cask install lastfm
 brew cask install mactracker
 brew cask install minecraft
@@ -68,7 +68,7 @@ brew cask install security-growler
 brew cask install sidplay
 #brew cask install skype
 brew cask install slack
-# brew cask install sourcetree
+#brew cask install sourcetree
 brew cask install soulseek
 brew cask install soundflower
 brew cask install soundflowerbed
@@ -82,7 +82,7 @@ brew cask install transmission
 brew cask install versions
 brew cask install virtualbox
 brew cask install vlc
-# brew cask install vmware-fusion
+#brew cask install vmware-fusion
 brew cask install vox
 brew cask install webtorrent
 brew cask install xbox360-controller-driver-beta
