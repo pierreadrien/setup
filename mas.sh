@@ -5,7 +5,7 @@
 # Upgrade the MAS.
 mas upgrade
 
-# Install Amphetamine.apps
+# Install Amphetamine.app
 mas install 937984704
 
 # Install Blackmagic Disk Speed Test.app
