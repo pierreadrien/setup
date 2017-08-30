@@ -11,6 +11,9 @@ brew update
 # Tap into this for alternate versions such as Firefox Developer Edition.
 brew tap caskroom/versions
 
+# Tap into this for things such as xbox360-controller-driver.
+brew tap caskroom/drivers
+
 # Cask listing.
 brew cask install 1password
 #brew cask install adobe-creative-cloud
@@ -51,6 +54,7 @@ brew cask install imageoptim
 #brew cask install java
 brew cask install lastfm
 brew cask install mactracker
+#brew cask install yujitach-menumeters
 brew cask install minecraft
 #brew cask install native-access
 brew cask install onyx
@@ -85,7 +89,7 @@ brew cask install vlc
 #brew cask install vmware-fusion
 brew cask install vox
 brew cask install webtorrent
-brew cask install xbox360-controller-driver-beta
+brew cask install xbox360-controller-driver
 brew cask install xld
 brew cask install xquartz
 
