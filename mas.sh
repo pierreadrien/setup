@@ -16,3 +16,6 @@ mas install 409789998
 
 # Install Xcode.app
 mas install 497799835
+
+# Install Trello.app
+mas install 1278508951
