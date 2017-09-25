@@ -51,6 +51,8 @@ brew cask install hosts
 brew cask install iina
 brew cask install imagealpha
 brew cask install imageoptim
+brew cask install intel-power-gadget
+brew cask install istat-menus
 #brew cask install java
 brew cask install lastfm
 brew cask install mactracker
