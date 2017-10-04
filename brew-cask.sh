@@ -40,8 +40,8 @@ brew cask install firefox
 #brew cask install franz
 brew cask install gitkraken
 brew cask install gog-galaxy
+brew cask install google-backup-and-sync
 brew cask install google-chrome
-brew cask install google-drive
 brew cask install google-earth
 brew cask install google-nik-collection
 brew cask install gpgtools
