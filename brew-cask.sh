@@ -71,7 +71,6 @@ brew cask install screenhero
 brew cask install scummvm
 brew cask install sdformatter
 brew cask install security-growler
-brew cask install sidplay
 #brew cask install skype
 brew cask install slack
 #brew cask install sourcetree
