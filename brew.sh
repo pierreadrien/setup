@@ -44,10 +44,10 @@ brew install narwhal
 
 # Install more recent versions of some macOS tools.
 brew install vim --with-override-system-vi
-brew install homebrew/grep
-brew install homebrew/openssh
-brew install homebrew/screen
-brew install homebrew/php/php56 --with-gmp
+brew install grep
+brew install openssh
+brew install screen
+brew install homebrew/php/php72 --with-gmp
 
 # Install font tools.
 brew tap bramstein/webfonttools
@@ -56,7 +56,9 @@ brew install sfnt2woff-zopfli
 brew install woff2
 
 # Install some CTF tools; see https://github.com/ctfs/write-ups.
-# brew install aircrack-ng
+#brew install aircrack-ng
+# Java 1.7+ is a requirement. You can download from:
+# https://www.oracle.com/technetwork/java/javase/downloads/index.html.
 brew install bfg
 brew install binutils
 brew install binwalk
@@ -78,6 +80,7 @@ brew install tcpflow
 brew install tcpreplay
 brew install tcptrace
 brew install ucspi-tcp # `tcpserver` etc.
+# XQuartz is required to install xpdf: https://xquartz.macosforge.org.
 brew install xpdf
 brew install xz
 
