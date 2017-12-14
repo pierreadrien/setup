@@ -26,6 +26,7 @@ brew cask install au-lab
 brew cask install bonjour-browser
 brew cask install boxer
 brew cask install calibre
+brew cask install ccleaner
 #brew cask install charles
 brew cask install coconutbattery
 brew cask install colloquy
@@ -38,7 +39,7 @@ brew cask install doomsday-engine
 brew cask install dosbox-svn
 brew cask install dropbox
 brew cask install firefox
-#brew cask install firefoxdeveloperedition
+brew cask install firefoxnightly
 #brew cask install flux
 #brew cask install forecast
 #brew cask install franz
@@ -64,6 +65,7 @@ brew cask install kitematic
 brew cask install lastfm
 brew cask install mactracker
 brew cask install mame
+brew cask install mamp
 #brew cask install yujitach-menumeters
 brew cask install minecraft
 #brew cask install native-access
@@ -90,7 +92,7 @@ brew cask install soundflowerbed
 brew cask install steam
 brew cask install suspicious-package
 brew cask install svgcleaner
-#brew cask install telegram
+brew cask install telegram-alpha
 brew cask install the-unarchiver
 brew cask install torbrowser
 brew cask install transmission
