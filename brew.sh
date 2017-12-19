@@ -89,10 +89,13 @@ brew install ack
 brew install cask
 brew install dark-mode
 #brew install exiv2
+brew install geoip
 brew install git
 brew install git-lfs
 brew install imagemagick --with-webp
+brew install irssi
 brew install lua
+brew install links
 brew install lynx
 brew install mas
 brew install mosh
@@ -108,8 +111,10 @@ brew install ssh-copy-id
 brew install testssl
 brew install tmux
 brew install tree
+brew install unrar
 brew install vbindiff
 brew install webkit2png
+brew install youtube-dl
 brew install zopfli
 
 # Remove outdated versions from the cellar.
