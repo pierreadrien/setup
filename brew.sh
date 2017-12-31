@@ -98,6 +98,7 @@ brew install lua
 brew install links
 brew install lynx
 brew install mas
+brew install mdf2iso
 brew install mosh
 brew install neovim
 brew install node
