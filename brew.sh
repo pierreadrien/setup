@@ -117,6 +117,7 @@ brew install vbindiff
 brew install webkit2png
 brew install youtube-dl
 brew install zopfli
+brew install schismtracker
 
 # Remove outdated versions from the cellar.
 brew cleanup
