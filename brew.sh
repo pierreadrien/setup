@@ -94,6 +94,7 @@ brew install git
 brew install git-lfs
 brew install imagemagick --with-webp
 brew install irssi
+brew install lame
 brew install lua
 brew install links
 brew install lynx
@@ -114,6 +115,7 @@ brew install tmux
 brew install tree
 brew install unrar
 brew install vbindiff
+brew install vice
 brew install webkit2png
 brew install youtube-dl
 brew install zopfli
