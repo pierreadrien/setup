@@ -11,9 +11,6 @@ mas install 937984704
 # Install Blackmagic Disk Speed Test.app
 mas install 425264550
 
-# Install Twitter.app
-mas install 409789998
-
 # Install Xcode.app
 mas install 497799835
 
