@@ -58,6 +58,7 @@ brew cask install iina
 brew cask install imagealpha
 brew cask install imageoptim
 brew cask install intel-power-gadget
+brew cask install ioquake3
 brew cask install istat-menus
 brew cask install iterm2
 #brew cask install java
@@ -74,6 +75,7 @@ brew cask install openemu-experimental
 brew cask install opera-developer
 #brew cask install origin
 brew cask install plex-media-player
+brew cask install porting-kit
 brew cask install postman
 brew cask install prefs-editor
 brew cask install rambox
