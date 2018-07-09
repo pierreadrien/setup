@@ -16,3 +16,9 @@ mas install 497799835
 
 # Install Trello.app
 mas install 1278508951
+
+# Install Spark.app
+mas install 1176895641
+
+# Install Pages.app
+mas install 409201541
