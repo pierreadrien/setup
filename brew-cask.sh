@@ -44,6 +44,7 @@ brew cask install firefoxnightly
 #brew cask install flux
 #brew cask install forecast
 #brew cask install franz
+brew cask install gas-mask
 #brew cask install gimp
 brew cask install github
 brew cask install gitkraken
