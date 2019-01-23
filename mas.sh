@@ -22,3 +22,6 @@ mas install 1176895641
 
 # Install Pages.app
 mas install 409201541
+
+# Install Discovery.app (bonjour-browser)
+mas install 1381004916

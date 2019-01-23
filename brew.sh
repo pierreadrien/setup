@@ -108,7 +108,8 @@ brew install pigz
 brew install pv
 brew install rename
 brew install rhino
-brew install speedtest_cli
+brew install schismtracker
+brew install speedtest-cli
 brew install ssh-copy-id
 brew install testssl
 brew install tmux
@@ -119,7 +120,6 @@ brew install vice
 brew install webkit2png
 brew install youtube-dl
 brew install zopfli
-brew install schismtracker
 
 # Remove outdated versions from the cellar.
 brew cleanup
