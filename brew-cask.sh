@@ -26,6 +26,7 @@ brew cask install au-lab
 #brew cask install blender
 brew cask install boxer
 brew cask install calibre
+brew cask install carbon-copy-cloner
 brew cask install ccleaner
 #brew cask install charles
 brew cask install clipy
@@ -39,6 +40,7 @@ brew cask install dolphin-dev
 brew cask install doomsday-engine
 brew cask install dosbox-svn
 brew cask install dropbox
+brew cask install epic-games
 brew cask install firefox
 brew cask install firefoxnightly
 #brew cask install flux
@@ -54,6 +56,7 @@ brew cask install google-chrome
 brew cask install google-earth
 brew cask install google-nik-collection
 brew cask install gpgtools
+brew cask install grafx
 brew cask install grandperspective
 brew cask install handbrake
 brew cask install hosts
@@ -73,6 +76,7 @@ brew cask install mamp
 #brew cask install yujitach-menumeters
 brew cask install minecraft
 #brew cask install native-access
+brew cask install onionshare
 brew cask install onyx
 brew cask install openemu-experimental
 brew cask install opera-developer
@@ -83,7 +87,8 @@ brew cask install porting-kit
 brew cask install postman
 brew cask install prefs-editor
 brew cask install radio-silence
-brew cask install rambox
+brew cask install retroarch-metal
+#brew cask install rambox
 brew cask install safari-technology-preview
 brew cask install screenhero
 brew cask install scummvm
@@ -99,6 +104,7 @@ brew cask install soundflowerbed
 brew cask install steam
 brew cask install suspicious-package
 brew cask install svgcleaner
+brew cask install teamviewer
 brew cask install telegram-alpha
 brew cask install the-unarchiver
 brew cask install torbrowser
@@ -113,8 +119,10 @@ brew cask install visual-studio-code
 brew cask install vlc
 #brew cask install vmware-fusion
 brew cask install vox
+#brew cask install wavebox
 brew cask install webtorrent
 brew cask install whatsapp
+brew cask install windows95
 brew cask install wineskin-winery
 brew cask install xbox360-controller-driver
 brew cask install xld
@@ -127,6 +135,8 @@ brew cask install xquartz
 #Fasttracker II clone
 #ProTracker clone
 #QuNexus Editor.app
+#redream
+#wxlauncher.app
 
 # Remove installers.
 brew cask cleanup
