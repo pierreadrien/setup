@@ -5,6 +5,9 @@
 # Upgrade the MAS.
 mas upgrade
 
+# Install AdGuard for Safari
+mas install 1440147259
+
 # Install Amphetamine.app
 mas install 937984704
 
