@@ -14,6 +14,9 @@ brew tap caskroom/versions
 # Tap into this for things such as xbox360-controller-driver.
 brew tap caskroom/drivers
 
+# Tap into this for fonts.
+brew tap homebrew/cask-fonts
+
 # Cask listing.
 brew cask install 1password6
 brew cask install 8bitdo-firmware-updater
@@ -49,6 +52,7 @@ brew cask install firefox-beta
 #brew cask install firefox-nightly
 brew cask install flotato
 #brew cask install flux
+brew cask install font-fira-code
 #brew cask install forecast
 #brew cask install franz
 brew cask install gas-mask
