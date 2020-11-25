@@ -48,13 +48,13 @@ brew cask install doomsday-engine
 brew cask install dosbox-x
 brew cask install dropbox
 brew cask install epic-games
+brew cask install ferdi
 brew cask install firefox-beta
 #brew cask install firefox-nightly
 brew cask install flotato
 #brew cask install flux
 brew cask install font-fira-code
 #brew cask install forecast
-#brew cask install franz
 brew cask install gas-mask
 #brew cask install gimp
 brew cask install github
@@ -79,7 +79,7 @@ brew cask install istat-menus
 brew cask install iterm2
 #brew cask install java
 brew cask install kitematic
-brew cask install lastfm
+#brew cask install lastfm
 brew cask install mactracker
 brew cask install mame
 brew cask install mamp
@@ -88,8 +88,10 @@ brew cask install malwarebytes
 #brew cask install microsoft-edge-dev
 brew cask install minecraft
 brew cask install motrix
+brew cask install multipatch
 brew cask install namebench
 brew cask install native-access
+brew cask install obs
 brew cask install onionshare
 brew cask install onyx
 brew cask install openemu-experimental
@@ -103,6 +105,7 @@ brew cask install prefs-editor
 brew cask install quakespasm
 brew cask install radio-silence
 brew cask install retroarch-metal
+brew cask install reaper
 #brew cask install rambox
 brew cask install safari-technology-preview
 brew cask install screenhero
@@ -121,7 +124,7 @@ brew cask install sunvox
 brew cask install suspicious-package
 brew cask install svgcleaner
 brew cask install teamviewer
-brew cask install telegram-alpha
+#brew cask install telegram-alpha
 brew cask install the-unarchiver
 brew cask install tor-browser
 brew cask install transmission
@@ -138,7 +141,7 @@ brew cask install vlc
 brew cask install vox
 #brew cask install wavebox
 brew cask install webtorrent
-brew cask install whatsapp
+#brew cask install whatsapp
 brew cask install windows95
 brew cask install wineskin-winery
 brew cask install xbox360-controller-driver

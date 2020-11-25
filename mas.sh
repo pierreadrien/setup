@@ -21,7 +21,7 @@ mas install 497799835
 mas install 1278508951
 
 # Install Spark.app
-mas install 1176895641
+# mas install 1176895641
 
 # Install Pages.app
 mas install 409201541
@@ -43,3 +43,9 @@ mas install 1482454543
 
 # Install Slack.app
 mas install 803453959
+
+# Install GarageBand.app
+mas install 682658836
+
+# Install WhatsApp.app
+mas install 1147396723
